@@ -1,0 +1,32 @@
+#triangle1{
+    width:0px;
+    height:0px;
+    margin: auto;
+    border: 100px solid #996969;
+    border-bottom: 100px solid black;
+    
+    position: relative;
+    top:400px
+}
+
+#triangle2{
+    width:0px;
+    height:0px;
+    margin: auto;
+    border: 100px solid #995656;
+    border-bottom: 100px solid #684a68;
+    position: relative;
+    top:150px;
+    right:5px;
+}
+
+#triangle3{
+    width:0px;
+    height:0px;
+    margin: auto;
+    border: 100px solid #685b5b;
+    border-bottom: 100px solid  #1c1c24;
+    position: relative;
+    top:-100px;
+    right:5px;
+}
